@@ -3,7 +3,7 @@
 
 
 using namespace std;
-
+// uchebnaya proga
 int main()
 {
 int a, b;
